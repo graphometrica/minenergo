@@ -16,7 +16,7 @@
 # Frontend
 [Ссылка](https://github.com/graphometrica/leaders2020_final_frontend)
 
-*Репозиторий содержит весь код для Frntend*
+*Репозиторий содержит весь код для Frontend*
 
 # Backend + Machine Learning
 [Ссылка](https://github.com/graphometrica/minenergo-models)
