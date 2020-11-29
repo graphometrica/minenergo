@@ -14,9 +14,9 @@
 Потому разработка велась сразу в нескольких репозиториях, а тут мы будут ссылки и краткое описание каждого из них. Более детальное описание уже в самих репозиториях.
 
 # Frontend
-[Ссылка]()
+[Ссылка](https://github.com/graphometrica/leaders2020_final_frontend)
 
-*Описание??*
+*Репозиторий содержит весь код для Frntend*
 
 # Backend + Machine Learning
 [Ссылка](https://github.com/graphometrica/minenergo-models)
@@ -31,7 +31,7 @@
 # Kotlin ETL
 [Ссылка](https://github.com/graphometrica/minenegro_backend)
 
-*Описание??*
+*Репозиторий содержит ETL (Extract-Transform-Load) пайпалайны и миграционные скрипты для базы данных*
 
 # SQL
 [Ссылка](https://github.com/graphometrica/minenergo_sql)
